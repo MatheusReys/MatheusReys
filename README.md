@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Souza Reys
 
-### `Software Engineering Student • Developer • Builder`
+### `Estudante de Engenharia de Software • Desenvolvedor • Builder`
 
 > Transformando ideias em projetos reais, aprendendo na prática e evoluindo um código de cada vez. 🚀
 
@@ -235,5 +235,5 @@ Quero trabalhar em ambientes onde possa aprender com pessoas mais experientes, c
 ---
 
 <p align="center">
-  <i>Code. Learn. Build. Repeat.</i>
+  <i>Code. Aprender. Codar. Repeat.</i>
 </p>
