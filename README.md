@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./binary-rain-transparent.gif" width="100%" alt="Binary Rain">
+</p>
+
 # 👨‍💻 Matheus Souza Reys
 
 ### `Estudante de Engenharia de Software • Desenvolvedor • Builder`
