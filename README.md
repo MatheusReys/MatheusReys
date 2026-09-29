@@ -239,5 +239,5 @@ Quero trabalhar em ambientes onde possa aprender com pessoas mais experientes, c
 ---
 
 <p align="center">
-  <i>Code. Aprender. Codar. Repeat.</i>
+  <i>Codar. Aprender. Codar. Repeat.</i>
 </p>
